@@ -1,0 +1,8 @@
+*.pcap
+*.log
+*.env
+.env.*
+secrets/
+private/
+__pycache__/
+*.pyc
