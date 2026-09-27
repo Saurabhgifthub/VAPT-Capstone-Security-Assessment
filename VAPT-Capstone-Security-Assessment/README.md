@@ -18,3 +18,27 @@ No public or third-party production system was attacked for this repository.
 
 ## Submission
 Publish only authorized, sanitized material. Replace evidence placeholders with genuine lab evidence before describing a finding as verified.
+
+
+
+## Done with the final task.
+RabTech Academy / Active Intern
+
+Saurabh Ramgopal Prajapati
+
+Intern ID
+
+RAB-2026-3C1067B983
+
+Domain
+
+Cybersecurity & Ethical Hacking
+
+Batch
+
+BATCH-AUG-2026
+
+Duration
+
+30 days · Remote
+
